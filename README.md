@@ -53,9 +53,10 @@ change.
 `26.7.2401` is the first build cut on 24 July 2026 and `26.7.2402` the second. Later releases are
 always numerically larger.
 
-Releases up to **26.7.2505** were published in the shared
-[danieldickinson/releases](https://github.com/danieldickinson/releases) repo and remain there;
-everything from 26.7.2701 onward lives here.
+Releases from **26.7.2701** onward live here. Earlier builds were published in a shared releases
+repo that has since been retired — if you are still on 26.7.2505 or older, its in-app update check can
+no longer reach anything, so install a current release from this page by hand once and it will pick up
+from there.
 
 ## Status
 
